@@ -1,3 +1,4 @@
 1. Cadastro de alunos
 2. Consulta de alunos
 3. Registro de notas
+4. Controle de frequência dos alunos
